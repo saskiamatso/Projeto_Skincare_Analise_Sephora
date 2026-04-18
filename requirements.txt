@@ -1,0 +1,3 @@
+# Bibliotecas utilizadas: pandas, matplotlib, seaborn, kagglehub
+# No Google Colab, todas já vêm pré-instaladas exceto kagglehub.
+# Para instalar o kagglehub: pip install kagglehub
